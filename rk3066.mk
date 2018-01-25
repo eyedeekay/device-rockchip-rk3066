@@ -4,4 +4,4 @@ PRODUCT_BRAND := rockchip
 PRODUCT_DEVICE := rk3066
 PRODUCT_NAME := rk3066
 PRODUCT_MANUFACTURER := rockchip
-TARGET_PREBUILT_KERNEL := device/rockchip/rk3066/zImage
+#TARGET_PREBUILT_KERNEL := device/rockchip/rk3066/zImage
