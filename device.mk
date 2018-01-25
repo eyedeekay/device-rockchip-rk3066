@@ -17,7 +17,6 @@
 
 
 PRODUCT_COPY_FILES += \
-    $(TARGET_PREBUILT_KERNEL):kernel				\
     $(LOCAL_PATH)/fstab.rk30board:root/fstab.rk30board		 \
     device/rockchip/rk3066/init.rockchip.rc:root/init.rockchip.rc \
     device/rockchip/rk3066/init.rk30board.rc:root/init.rk30board.rc \
